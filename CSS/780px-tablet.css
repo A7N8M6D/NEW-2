@@ -1,0 +1,1373 @@
+@media  screen and (max-width:1024px  )
+
+{
+   
+    .container
+{
+    overflow: hidden;
+   
+    padding: 0 60px 0 60px;
+}
+.button-main
+{
+    font-family: 'Golos Text', sans-serif;
+    width:180px;
+    height: 6vh;
+    border-radius: 18px;
+    font-size: 1rem;
+    font-weight: bolder;
+}
+.button-main:hover
+{
+    
+    width:190px;
+    height: 7vh;
+    border-radius: 18px;
+    font-size: 1.2rem;
+   
+}
+    /* navbar css start */
+
+.navbar
+{
+    height: 13vh;
+}
+.navbar-logo {
+    height: 13vh;
+    width: 30%;
+}
+.navbar-logo img {
+    width: auto;
+    height: 13vh;
+}
+.navbar-main {
+    width: 65%;
+    height: 15vh;
+}
+.navbar-main ul li:nth-child(5) {
+width: 20%;
+}
+
+/* **************************************************** */
+/* header css */
+.top-page
+{
+    height: 90vh;
+    width: 100%;
+}
+.top-page-main
+{
+ height: 80vh; 
+}
+
+.header-text1 {
+    width: auto;
+    height: 28vh;
+}
+.header-text1 h1
+{
+    height: 21vh;
+  font-size:3.5rem;
+} 
+.button-main {
+    width: 180px;
+    height: 6vh;
+    border-radius: 20px;
+}
+.header-text2 {
+    width: 70%;
+    height: 14vh;
+}
+
+.header-text2 p {
+    width: 100%;
+    height: 14vh;
+}
+
+
+/* section 1  css*/
+
+.section1
+{
+    height: 20vh;
+}
+.section1-text h1
+{
+    font-size: 3rem;
+}
+/* section 1  css END*/
+/***********************/
+/* GALLERY CSS */
+
+.gallery
+{
+height: 90vh;
+background-size: 450px;
+}
+.gallery-main
+{
+   height: 60vh;
+}
+.gallery-body
+{
+    height: 60vh;
+    width: 70%;
+}
+
+.gallery-page
+{
+height: 56vh;
+width: 30%;
+}
+.gallery-img
+{
+height:37vh;
+}
+.gallery-img img
+{
+height:37vh;
+}
+.gallery-heading {
+    width: 98%;
+    height: 20vh;
+}
+.gallery-heading h1 {
+font-size: 1.3rem;
+}
+.gallery-btn {
+    margin-top: 10px;
+    height: 12vh;
+}
+/* GALLERY END */
+/* **************************** */
+/* block1 css */
+.block
+{
+    height: 80vh;
+}
+.block-img
+{
+  
+    height: 80vh;
+}
+.block-img img
+{
+    height: 80vh;
+}
+.block-heading
+{
+    height: 80vh;
+    /* width: 90%; */
+}
+.block-text-area
+{
+    width:80%;
+    width: 90%;
+}
+.block-heading h1
+{
+    height: 18vh;
+}
+.block-heading h1
+{
+    
+    font-size: 3rem;
+}
+/* block1 css end */
+/*********************************/
+/* block2 css */
+
+
+
+/* block2 css end */
+/*********************************/
+
+/* CSS TITLE1 */
+.title1
+{
+    height: 90vh;
+}
+.title1-text
+{
+    margin-top: 10vh;
+    height: 62vh;
+}
+.title1-text h1
+{
+    font-size: 3rem;
+
+}
+/* CSS TITLE1 END */
+/**********************************/
+/* CSS TITLE2  */
+.title2
+{
+    height: 90vh;
+}
+.title2-text
+{
+    height: 70vh;
+}
+.title2-text h1
+{
+font-size: 3.3rem;
+}
+/* CSS TITLE2 */
+/***********************************/
+/* title3 */
+.section3-main
+{
+height: 25vh;
+}
+.section3-main h1
+{
+font-size: 1.3rem;
+}
+/* title3 end */
+/*************************************/
+
+/* section4 css */
+.section4
+{
+    height: 50vh;
+    background-image: 350px;
+}
+.section4-main
+{
+    height: 25vh;
+}
+.section4-text
+{
+height: 25vh;
+}
+.section4 .span1
+{
+    font-size: 3rem;
+    font-weight: bold;
+}
+/* SECTION4 CSS END */
+/*******************************************/
+/* section 5 css */
+
+.section5
+{
+    height: 90vh;
+}  
+.section5-main
+{
+height: 90vh;
+}
+.section5-text
+{
+height: 60vh;
+}
+.section5-text .span1
+{
+height: 12vh;
+}
+.section5-text .span1 h1
+{
+    font-size: 3rem;
+
+}
+/* scetion 5 css end */
+/************************/
+/* lastsection */
+
+.lastsection-main1
+{
+    height: 50vh;
+    width: 37%;
+    display: flex;
+    /* flex-direction: column; */
+    justify-content: center;
+    align-items: center;
+
+}
+.lastsection-main2
+{
+width: 60%;
+}
+.lastsectionpart1
+{
+    width: 100%;
+}
+.lastsectionpart2
+{
+    width: 32%;
+}
+.lastsectionpart3
+{
+    width: 32%;
+}
+.lastsectionpart4
+{
+    width: 32%;
+}
+.span6 {
+width: 86%;
+}
+}
+@media  screen and (max-width:770px  ) {
+    .container
+    {
+        overflow: hidden;
+       
+        padding: 0 20px 0 20px;
+    }
+   /* navbar css start */
+   .navbar-logo img
+   {
+    height: 12vh;
+   } 
+   .button-main
+{
+    font-family: 'Golos Text', sans-serif;
+    width:120px;
+    height: 5vh;
+    border-radius: 15px;
+    font-size: 0.8rem;
+    font-weight: bolder;
+    transition: 1s;
+}
+.button-main:hover
+{
+    
+    width:130px;
+    height: 6vh;
+   
+    font-size: 1rem;
+   
+}
+/* .button-main:hover
+{
+    font-family: 'Golos Text', sans-serif;
+    width:150px;
+    height: 6vh;
+    border-radius: 30px;
+    font-size: 1rem;
+    font-weight: bolder;
+} */
+   .navbar
+    {
+        /* overflow: hidden; */
+        height: 12vh;
+    }
+    .nav-toggle
+    {
+     
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     width: 10%;    
+     z-index: 1;
+     
+     /* justify-content:end;     */
+    }
+    
+    .nav-toggle i
+    {
+        height: 4vh;
+        width: 100%;
+        font-size: 25px;
+    } 
+    .navbar-main 
+    {
+        
+        padding-top: 100px;
+        background-color: rgb(175, 170, 160 );
+        border-radius: 20px;
+        /* opacity: 0.4; */
+        /* display: none; */
+        /* overflow: hidden; */
+        height: 30vh;
+        width: 100%;
+        display: none;
+        position: absolute;
+        /* right: -140px; */
+        /* right: -700px; */
+        /* top: 100px; */
+        /* transition: 9s ease-in ,8s ease-out; */
+        transition: right 3s ease-in-out;
+        
+      
+    }
+    .navbar-main ul 
+    {
+    
+        width: 100%;
+    }
+    .navbar-main.active
+    {
+        
+        right:0px;
+        display: block;
+        
+    }
+    .navbar-main:active
+    {
+        right: 0px;
+           display: block;
+    }
+    .navbar-main ul
+    {
+        /* position: absolute; */
+        /* display:flex; */
+         flex-direction: column; */
+        justify-content: space-between; 
+        height: 30vh;
+        /* width: 85%; */
+
+    }
+    /* .navbar-main ul li
+    {
+        display:flex;
+        flex-direction: column;
+        justify-content: space-between;
+    } */
+    .navbar-main ul li:nth-child(5)
+{
+    width: 80%;
+
+}
+/* navbar css start */
+/* **************************************************** */
+/* header css */
+
+.top-page
+{
+    /* overflow: hidden; */
+    /* overflow: hidden; */
+    background: rgb(0,0,0,0.1) url("/IMG/for\ 780\ section1.png") no-repeat ;
+    background-size: 100% 100%;
+    height: 80vh;
+   
+  
+   
+    width: 100%;
+    
+
+}
+
+.top-page-main {
+    width: 60%;
+    height: 70vh;
+    justify-content: end;
+}
+.header-text1 
+{
+    height: 20vh;
+
+}
+.header-text1 h1
+{
+    height: 17vh;
+   
+    font-size: 2.7rem;
+}
+.header-text1 p
+{
+    
+    font-size: 1.2rem;
+}
+
+.header-text2 {
+
+width: 100%;
+}
+.header-text2 p {
+    height: 19vh;
+    width: 90%;
+    /* font-size: 0.9rem; */
+}
+.header-text2 {
+
+    height: 19vh;
+}
+
+/* header css end */
+/***************************/
+/* section 1  css*/
+.section1
+{
+    margin-top: 2px;
+    height: 18vh;
+    
+}
+.section1-text h1
+{
+  font-size: 2rem;
+}
+
+/* gallery css */
+.gallery
+{
+    background-size: 300px;
+    height: 138vh;
+}
+
+.gallery-body
+{
+    height: 55vh;
+}
+.gallery-page
+{
+    height: 55vh;
+}
+
+.gallery-body
+{ 
+    width: 90%;
+    gap:20px;
+}
+.gallery-img img
+{
+    height: 37vh;
+}
+.gallery-img 
+{
+    height: 37vh;
+}
+.gallery-heading h1 {
+    font-size: 0.8rem;
+}
+
+.gallery-page
+{
+    width: 40%;
+}
+.gallery-main {
+    height: 115vh;
+}
+/* .gallery-btn a
+{
+    width: 30%;
+height: 6vh;
+} */
+/* GALLERY END */
+/* **************************** */
+/* block1 css */
+.block
+{
+    height: 70vh;
+    width: 100%;
+    display: flex;
+
+}
+.block-img 
+{
+    height: 70vh;
+    /* width: 100%; */
+
+}  
+.block-img img
+{
+    height: 70vh;
+    width: 100%;
+
+}  
+/* .block-btn
+{
+    width: 60%;
+    height: 6vh;
+} */
+.block-heading
+{
+    color: white;
+    background-color: #7f7770;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+    width: 50%;
+    height: 70vh;
+
+}
+.block-heading h1
+{
+    
+    font-size: 2rem;
+}
+/*********************************/
+
+/* CSS TITLE1 */
+.title1
+{
+    height: 70vh;
+}
+.title1-text
+{
+    /* margin-top: 30vh; */
+    height: 45vh;
+     width: 100%;
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     align-items: center;
+
+}
+.title1-text h1
+{
+    font-size: 2rem;
+    display: flex;
+     flex-direction: column;
+     justify-content: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* font-size: 1.5rem; */
+    width: 100%;
+    color: white;
+}
+.title1-text p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20vh;
+    width: 70%;
+}
+
+/* CSS TITLE1 END */
+/**********************************/
+/* CSS TITLE2  */
+.title2
+{
+    height: 70vh;
+    width: 100%;
+    background-image: url(/IMG/title2.png);
+    background-size: 100% 100%;
+    overflow: auto;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    
+
+}
+.title2-main
+{
+
+    align-items: center;
+    height: 60vh;
+    display: inline-block;
+}
+.title2-text {
+    /* display: inline-block; */
+    height: 50vh;
+}
+.title2-text h1
+{
+display: flex;
+/* flex-direction: column;  */
+ justify-content: end;
+font-size: 2rem;
+width: auto;
+/* margin-right: 82px; */
+
+}
+
+/* CSS TITLE2 */
+/***********************************/
+/* title3 */
+.section3{
+    height: 60vh;
+}
+.section3-text
+{
+    width: 48%;
+    height: auto;
+}
+.section3-main {
+    
+        
+        height: 60vh;
+    }
+.section3-main h1 {
+    
+
+        height: 10vh;
+    
+}
+.section3-main p {
+    width: auto;
+    height: 14vh;
+}
+/* title3 end */
+/* SECTION4 CSS END */
+/*******************************************/
+/* CSS TITLE2 */
+/***********************************/
+
+/*************************************/
+
+/* section4 css */
+
+.section4
+{
+    background-size:270px ;
+    height: 40vh;
+}
+
+.section4-main
+{
+    height: 32vh;
+}
+.section4-text
+{
+     height: 32vh;
+}
+
+
+
+/* SECTION4 CSS END */
+/*******************************************/
+/* section 5 css */
+.section5
+{
+    width:100%;
+    height: 70vh;
+    
+
+
+}
+.section5-main {
+    width: 100%;
+    height: 67vh;
+}
+.section5-email-box {
+width: 100%;
+}
+.section5-text p {
+    width: auto;
+    height: 12vh;
+}
+.section5-text .span1 h1  {
+    font-size: 2rem;
+}
+.section5-text {
+    height: 30vh;
+    width: 80%;
+}
+
+
+
+/* scetion 5 css end */
+/************************/
+
+/************************/
+/* lastsection */
+.lastsection
+{
+    height: 50vh;
+}
+.lastsection-main {
+    height: 47vh;
+    display: flex;
+    justify-content: center;
+}
+
+.lastsection-main1
+{
+    
+    width: 100%;
+   
+        height: 26vh;
+    display: flex;
+    /* flex-direction: column; */
+    justify-content: center;
+    align-items: center;
+    /* margin-bottom:0px ; */
+
+}
+.lastsection-main2
+{
+    height: 21vh;
+    width: 100%;
+}
+.lastsectionpart1 {
+    height: 17vh;
+    width: 90%;
+    
+}
+.lastsectionpart1 h1 {
+width: 100%;
+height: 4vh;
+font-size: 1.2rem;
+}
+.lastsectionpart1 p {
+    width: 85%;
+    height: 8vh;
+    font-size: 0.8rem;
+    }
+    .icon
+    {
+        height: 32px;
+    }
+    .span7 {
+        height: auto;
+        width: 46px;
+    }
+    .span7 i{
+        font-size: 20px;
+        height: 6vh;
+    }
+    .span6 {
+        height: 10vh;
+      width: 50%;
+    }
+    .span8 
+    {
+        height: 18vh;
+    }
+    .span8 a {
+     font-size: 0.8rem;
+     height: 4vh;
+
+    }
+
+
+.lastsectionpart2 {
+height:18vh;
+width: 30%;
+}
+.lastsectionpart3 {
+    height: 18vh;
+    width: 30%;
+    }
+    .lastsectionpart4 {
+        height: 18vh;
+        width: 30%;
+        }
+        .span8 {
+           height: 18vh; 
+        }
+        .span8 a {
+            height: 3vh;
+            padding-left: 0px;
+        }
+
+        /* last section css end */
+}
+
+
+
+@media screen and (min-width:310px) and (max-width:480px ) {
+
+    .container
+{
+    overflow: hidden;
+    width: 100;
+    padding: 0 10px 0 10px;
+}
+.button-main
+{
+    font-family: 'Golos Text', sans-serif;
+    width:150px;
+    height: 3vh;
+    border-radius: 30px;
+    font-size: 0.5rem;
+    font-weight: bolder;
+    transition: 1s ease-in-out;
+}
+.button-main:hover
+{
+   
+    width:152px;
+    height: 3.5vh;
+    border-radius: 30px;
+    font-size: 0.8rem;
+    
+}
+/* .button-main:hover
+{
+    font-family: 'Golos Text', sans-serif;
+    width:160px;
+    height: 4vh;
+    border-radius: 30px;
+    font-size: 0.6rem;
+    font-weight: bolder;
+} */
+/* navbar css start */
+.navbar
+{
+    /* position: fixed; */
+    /* display: flex; */
+    height: 8vh;
+    /* width: auto;
+    justify-content: space-between; */
+   
+    
+}
+.navbar-logo 
+{
+    height: 8vh;
+}
+.navbar-logo img {
+    height: 8vh;
+}
+/* header css */
+
+.top-page
+{
+    /* overflow: hidden; */
+    /* overflow: hidden; */
+    background: rgb(0,0,0,0.1) url("/IMG/for\ 780\ section1.png") no-repeat ;
+    background-size: 100% 100%;
+    /* height: 40vh; */
+   
+    height: 35vh;
+    width: 100%;
+    
+
+}
+.top-page-main
+{
+    
+    width: 60%;
+    height: 35vh; 
+    /* overflow:auto; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    
+}
+.navbar-main {
+    justify-content: center;
+height: 26vh;
+padding-top: 68px;
+width: 100%;
+}
+.header-text1 {
+    height: 10vh;
+}
+.navbar-main ul {
+height: 25vh;
+}
+.nav-toggle {
+
+    width: 13%;
+}
+.nav-toggle i {
+
+font-size: 20px;
+}
+.navbar-main ul li:nth-child(5) {
+height: 3vh;
+}
+.links a {
+    font-weight: bold;
+    font-weight: 100;
+    font-size: 0.5rem;
+}
+.link5 a i {
+    font-size: 12px;
+}
+
+
+.header-text1 h1 {
+    height:8vh;
+font-size: 1.3rem;
+/* display: inline; */
+}
+.header-text1 p {
+font-size: 0.7rem;
+}
+.header-btn a {
+    
+    width: 40%;
+    height: 3vh;
+    font-size: 0.6rem;
+}
+.header-text2 p {
+    font-size: 0.5rem; 
+ }
+.header-text2  {
+   height: 6vh; 
+}
+/***************************/
+/* section 1  css*/
+.section1
+{
+    height: 10vh;
+}
+.section1-text h1 {
+    color: #e8942c;
+    height: 5vh;
+    width: 100%;
+    font-size: 1rem;
+    font-family: 'Roboto', sans-serif;
+}
+.section1-text p {
+     height: 3vh;
+    font-size: 0.5rem; 
+}
+ /* <!-- ------------------- -->
+    <!-- gallery --> */
+    .gallery
+    {
+        height: 110vh;
+        background-size: 200px;
+    }
+    .gallery {
+        height: 110vh;
+    }
+    .gallery-main {
+        height: 100vh;
+    }
+    .gallery-main {
+        height: 100vh;
+    }
+    .gallery-body {
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+    }
+    .gallery-page {
+        width: 55%;
+        height: 25vh;
+    }
+    .gallery-img {
+        height: 15vh;
+        width: 100%;
+    }
+    .gallery-img img {
+        height: 25vh;
+        width: 100%;
+    }
+    .gallery-heading {
+        background-color: rgb(251, 247, 247,0.3);
+        width: 100%;
+        height: 15vh;
+        /* display: hidden; */
+        /* position: absolute; */
+        transition: all 1s;
+        
+        /* transition: display linear ease-in-out 2s ; */
+    }
+    .gallery-heading:hover
+    {
+         /* display: flex; */
+        transform: translateY(-50px);
+    }
+    
+    .gallery-heading p
+    {
+        font-size: 0.5rem;
+    }
+     /*
+    .gallery-heading p:hover
+    {
+        color: rgb(255, 255, 255, 1);
+        display: flex;
+    }
+    .gallery-heading h1
+    {
+        color: rgb(255, 255, 255, 0);
+        font-size: 0.5rem;
+        height: 4vh; 
+    } */
+    .gallery-heading h1:hover
+    {
+        color: rgb(255, 255, 255, 1);
+        display: flex;
+    }
+    
+    .gallery-heading h1
+    {
+        font-size: 0.9rem;
+    }
+    /* .gallery-btn {
+        height: 7vh;
+    }
+    .gallery-btn a {
+        width: 32%;
+    } */
+    /* <!-- gallery end -->
+    <!-- ----------------------------->
+    <!-- block 1 --> */
+    .block {
+        height: 36vh;
+    }
+    .block-img  {
+        height: 35vh;
+        width: 100%;
+        /* width: 100%; */
+    }
+    .block-img img {
+        height: 35vh;
+        width: 100%;
+    }
+    .block-text-area {
+        height: 35vh;
+    }
+    .block-heading
+    {
+        transition: all 1s ease-in-out;
+    }
+    .block-heading:hover 
+
+    {
+        /* width: 100%; */
+             transform: translatex(60px);
+    }
+    .block-heading h1 {
+        height: auto;
+        font-size: 1rem;
+    }
+    .block-heading p {
+        font-size: 1.3rem;
+        font-size: 0.5rem;
+        height: 9vh;
+        display: flex;
+        align-items: center;
+    }
+    .block-img img {
+        height: 35vh;
+        width: 100%;
+    }
+    .block-img  {
+       
+        z-index: -1;
+    position: absolute;
+    }
+    .block-heading {
+        height: 35vh;
+          /* display: none; */
+        width: 50%;
+        background-color:rgb(89, 89, 88,0.4);
+    }
+    .block-btn {
+        font-size: 0.7rem;
+        width: 53%;
+        height: 4vh;
+        
+    }
+    /* <!-- block 2 end -->
+    <!--------------------------------------------> */
+    /* <!-- TITLE1  --> */
+    .title1 {
+        height: 40vh;
+        
+    }
+    .title1-text {
+        margin-top: 6vh;
+        height: 24vh;
+    }
+    .title1-text h1 {
+        font-size: 1rem;
+        width: 70%;
+
+    }
+    .title1-text p {
+        width: 70%;
+        height: auto;
+        font-size: 0.5rem;
+    }
+    /* <!-- TITLE END -->
+     <!------------------------------------------->
+     <!-- TITLE2  --> */
+     .title2 {
+        height: 40vh;
+     }
+     .title2-main
+     {
+        height: 40vh;
+     }
+     .title2-text {
+        /* display: inline-block; */
+        margin-top: 30px;
+        height: 25vh;
+     }    
+     .title2-text h1 {
+        height: 16vh;
+        font-size: 1.4rem;
+        margin-right:0px ;
+     }
+     .title2-text p {
+        font-size: 0.5rem;
+     }
+/* 
+     <!-- TITLE2 END -->
+     <!--------------------------------------------->
+     <!-- title3  --> */
+
+
+     .section3 {
+        height: 55vh;
+        gap: 10px;
+        display: flex;
+        flex-direction: column;
+     }
+     .section3-main
+     {
+       width: 80%;
+        height: 50vh;
+        justify-content: center;
+     }
+     .section3-text
+     {
+        width: 90%;
+     }
+     .section3-main h1 {
+        font-size: 1rem;
+        height: 5vh;
+        width: 100%;
+     }
+     .section3-main p {
+        font-size: 0.8rem;
+        font-weight: 100;
+        height: 9vh;
+        width: 100%;
+     }
+     /* <!-- title3 end -->
+
+     <!--------------------------------->
+
+     <!--section 4--> */
+     .section4 {
+        background-size: 189px;
+        height: 25vh;
+     }
+     .section4-main {
+        height: 18vh;
+        width: 80%;
+     }
+     .section4-text {
+      height: 18vh;
+     }
+     .section4 .span1 {
+        font-size: 2rem;
+     }
+     
+.section4-text p {
+    font-size: 0.5rem;
+    font-weight: none;
+}
+/* <!--section 4 end -->
+     <!------------------------------------>
+     <!-- section5 --> */
+     .section5 {
+        height: 30vh;
+     }
+     .section5-main {
+        height: 30vh;
+    }
+    .section5-text {
+        height: 20vh;
+        width: 78%;
+        font-size: 0.5rem;
+        
+    } 
+    .section5-text .span1 {
+        width: 98%;
+        height: 5vh;
+    }
+    .section5-text .span1 h1 {
+        height: 100%;
+        width: 97%;
+        font-size: 1.5rem;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .section5-text p {
+
+     font-size: 0.8rem;
+    }
+    .section5-email-box {
+        width:100%;
+        
+    }
+    .section5-email-box .span5 {
+     width: 70%;
+     display: flex;
+        justify-content: center;
+        align-items: center;
+
+    }
+    .section5-email-box input {
+        height: 4vh;
+    }
+    .section5-email-box label {
+
+        height: 4.2vh;
+        width: 30%;
+        font-size: 0.4rem;
+        right: 17px;
+    }
+    .section5-input::placeholder
+{
+    text-align: center;
+    /* font-size:1rem ; */
+
+}
+   /* scetion 5 css end */
+/************************/
+/* lastsection */
+.lastsection {
+    height: 40vh;
+}
+.lastsection-main {
+    height: 35vh;
+}
+.lastsection-main1 {
+    width: 100%;
+    height: 20vh;
+}
+.lastsectionpart1 {
+    height: 20vh;
+    
+}
+.lastsectionpart1 h1 {
+    width: 100%;
+    height: 3vh;
+    font-size: 1rem;
+}
+.lastsectionpart1 p {
+    font-size: 0.5;
+    height: 12vh;
+    width: 100%;
+    
+}
+.span6 {
+    height: 6vh;
+    width: 40%;
+}
+.lastsection-main2 {
+    height: 11vh;
+}
+.lastsectionpart2 {
+    height: 26vh;
+    width: 30%;
+    height: 10vh;
+}
+.lastsectionpart3 {
+    height: 26vh;
+    width: 30%;
+    height: 10vh;
+}
+.lastsectionpart4 {
+    height: 26vh;
+    width: 30%;
+    height: 10vh;
+}
+
+.span7 {
+    
+    width: 36%;
+    height: auto;
+}
+.span7 i{
+    height: 4vh;
+    font-size: 15px;
+   
+}
+.span8 a {
+    font-size: 0.4rem;
+    height: 1.4vh;
+}
+.span8 {
+    height: 8vh;
+}
+}

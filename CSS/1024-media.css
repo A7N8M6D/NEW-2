@@ -1,0 +1,67 @@
+@media  screen and (max-width:1024px) {
+    .container
+    {
+        padding: 0 20px 0 20px;
+    }
+
+    /* navbar css start */
+    .navbar-main ul li:nth-child(5)
+    {
+        width: 17%;
+    }
+    /* navbar css start */
+/* **************************************************** */
+/* header css */
+.top-page
+{
+background-size: cover;
+}   
+
+.header-text1 h1
+{
+   
+    font-size: 4rem;
+}
+/* header css end */
+/***************************/
+/* section 1  css*/
+
+/* section 1  css END*/
+/***********************/
+/* GALLERY CSS */
+.gallery
+{
+
+background-size: 400px;
+   
+}
+
+/* GALLERY END */
+/* **************************** */
+/* block1 css */
+.block-heading h1
+{
+    height: 11vh;
+    
+    font-size: 2rem;
+}
+
+.block-btn
+{
+   
+    height: 8vh;
+}
+/* block1 css end */
+/*********************************/
+/* block2 css */
+
+
+
+/* block2 css end */
+/*********************************/
+
+/* CSS TITLE1 */
+
+
+
+}
